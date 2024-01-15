@@ -6,7 +6,6 @@
 * We design a multi-components graph of Hydrochar, enabling HTC_GNN model to extract vital chemical information from  hydrothermal carbonization reactions. With a carefully designed hydrochar graph, HTC_GNN can learn more chemical information from hydrothermal carbonization reaction information. 
 
 
-
 ## Environment
 
 * base dependencies:
