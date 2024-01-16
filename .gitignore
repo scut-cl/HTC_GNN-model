@@ -1,1 +1,3 @@
 **/__pycache__/**
+/test_dataset/**
+/train_val_dataset/**
